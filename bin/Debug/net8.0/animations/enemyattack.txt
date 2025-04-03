@@ -1,0 +1,26 @@
+SplashKit Animation
+
+//id,cellnumber,duration
+
+//id,cellnumber,duration
+
+//id,cellnumber,duration,next frame
+
+f:0,0,8,1
+f:1,1,8,2
+f:2,2,8,3
+f:3,3,8,4
+f:4,4,8,5
+f:5,5,8,6
+f:6,6,8,7
+f:7,7,8,8
+f:8,8,8,100
+
+//id,frame number,duration  
+f:100,0,1,
+
+f:101,11,8,
+
+i:attack,0
+i:default,100
+i:noanimation1,101
